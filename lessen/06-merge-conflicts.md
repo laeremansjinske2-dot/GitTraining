@@ -73,6 +73,20 @@ git commit -m "los merge conflict op"
 | **Korte branches** | Hoe langer een branch leeft, hoe meer kans op conflicts |
 | **Verdeel het werk** | Werk niet tegelijk aan hetzelfde bestand |
 
+## Merge Conflicts in Pull Requests
+
+Conflicts kunnen ook opduiken in **Pull Requests**! Als iemand een PR maakt en ondertussen is `main` veranderd op dezelfde plek, dan kan GitHub de PR niet automatisch mergen.
+
+Je ziet dan op GitHub:
+
+> **This branch has conflicts that must be resolved**
+
+Je kan het conflict dan oplossen:
+- **Op GitHub zelf** - klik "Resolve conflicts" (voor simpele conflicts)
+- **Lokaal** - pull beide branches, merge lokaal, los op, en push
+
+> **Demo:** De trainer laat een echte PR met een merge conflict zien!
+
 ## Demo: Een conflict zelf veroorzaken
 
 We gaan dit live doen! Open `python/kleuren.py` en volg de instructies in de oefening.

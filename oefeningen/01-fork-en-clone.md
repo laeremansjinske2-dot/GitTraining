@@ -8,6 +8,7 @@ Je eigen kopie van deze repository krijgen op je computer.
 ### 1. Fork de repository
 - Ga naar de originele repository op GitHub
 - Klik op **"Fork"** rechtsboven
+- **Belangrijk:** zet het vinkje bij "Copy the `main` branch only" **UIT** zodat je alle branches meekrijgt!
 - Kies je eigen account
 
 ### 2. Clone je fork
