@@ -5,12 +5,12 @@ Kleuren module - wordt gebruikt voor de merge conflict oefening!
 
 def favoriete_kleur():
     """Geeft de favoriete kleur terug."""
-    return "blauw"
+    return "groen"
 
 
 def kleuren_lijst():
     """Geeft een lijst van kleuren terug."""
-    return ["rood", "blauw", "groen", "geel", "paars"]
+    return ["rood", "blauw", "groen", "geel", "paars", "roze"]
 
 
 def kleur_mix(kleur1, kleur2):
