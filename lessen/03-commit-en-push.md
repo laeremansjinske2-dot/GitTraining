@@ -6,10 +6,10 @@ Git werkt met drie "zones" waar je bestanden doorheen gaan:
 
 ```
 Working Directory    →    Staging Area    →    Repository
-(je bestanden)            (klaar om te        (opgeslagen
-                           committen)          in git)
+ (je bestanden)           (klaar om te        (opgeslagen
+                           committen)           in git)
 
-   bewerken          git add            git commit
+   bewerken                 git add            git commit
 ```
 
 ### 1. Working Directory
