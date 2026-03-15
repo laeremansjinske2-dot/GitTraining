@@ -66,4 +66,6 @@ Ga naar je fork op GitHub en kijk of je wijziging zichtbaar is!
 - [ ] Gepusht naar GitHub
 - [ ] Wijziging zichtbaar op GitHub
 
+**Iets niet duidelijk? Ga terug naar naar [de uitleg](/lessen/03-commit-en-push.md)!**
+
 **Klaar? Ga door naar [oefening 3](03-branching.md)!**
