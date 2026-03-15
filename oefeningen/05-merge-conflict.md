@@ -87,4 +87,6 @@ git commit -m "los merge conflict op - kies rood als favoriete kleur"
 - [ ] Conflict handmatig opgelost
 - [ ] Oplossing gecommit
 
-**Gefeliciteerd! Je kan nu merge conflicts oplossen!**
+**Iets niet duidelijk? Ga terug naar naar [de uitleg](/lessen/06-merge-conflicts.md)!**
+
+**Klaar? Gefeliciteerd! Je kan nu merge conflicts oplossen én je hebt alle oefeningen van vandaag gemaakt!**
