@@ -4,34 +4,31 @@ Kleuren module - wordt gebruikt voor de merge conflict oefening!
 
 
 def favoriete_kleur():
-    """Geeft de favoriete kleur terug."""
     return "groen"
 
 
 def kleuren_lijst():
-    """Geeft een lijst van kleuren terug."""
     return ["rood", "blauw", "groen", "geel", "paars", "roze"]
 
 
 def kleur_mix(kleur1, kleur2):
-    """Mixt twee kleuren."""
-    mixen = {
-        ("rood", "blauw"): "paars",
-        ("blauw", "rood"): "paars",
-        ("rood", "geel"): "oranje",
-        ("geel", "rood"): "oranje",
-        ("blauw", "geel"): "groen",
-        ("geel", "blauw"): "groen",
-    }
-    return mixen.get((kleur1, kleur2), f"mix van {kleur1} en {kleur2}")
+    if kleur1 == "rood" and kleur2 == "blauw":
+        return "paars"
+    elif kleur1 == "blauw" and kleur2 == "rood":
+        return "paars"
+    elif kleur1 == "rood" and kleur2 == "geel":
+        return "oranje"
+    elif kleur1 == "geel" and kleur2 == "rood":
+        return "oranje"
+    elif kleur1 == "blauw" and kleur2 == "geel":
+        return "groen"
+    elif kleur1 == "geel" and kleur2 == "blauw":
+        return "groen"
+    else:
+        return "mix van " + kleur1 + " en " + kleur2
 
 
-def main():
-    print(f"Mijn favoriete kleur is: {favoriete_kleur()}")
-    print(f"Alle kleuren: {kleuren_lijst()}")
-    print(f"Rood + blauw = {kleur_mix('rood', 'blauw')}")
-    print(f"Rood + geel = {kleur_mix('rood', 'geel')}")
-
-
-if __name__ == "__main__":
-    main()
+print("Mijn favoriete kleur is:", favoriete_kleur())
+print("Alle kleuren:", kleuren_lijst())
+print("Rood + blauw =", kleur_mix("rood", "blauw"))
+print("Rood + geel =", kleur_mix("rood", "geel"))
