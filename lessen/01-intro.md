@@ -61,4 +61,4 @@ GitHub biedt extra features bovenop Git:
 
 ---
 
-**Volgende les:** [Forken & Clonen](02-fork-en-clone.md)
+**Volgende les:** [Git installeren & eerste setup](01b-git-installatie-en-setup.md)

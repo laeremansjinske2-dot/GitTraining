@@ -9,6 +9,7 @@
 | # | Onderwerp | Tijd |
 |---|-----------|------|
 | 1 | [Wat is Git & GitHub?](lessen/01-intro.md) | 10 min |
+| 1.5 | [Git installeren & eerste setup](lessen/01b-git-installatie-en-setup.md) | 10 min |
 | 2 | [Forken & Clonen](lessen/02-fork-en-clone.md) | 10 min |
 | 3 | [Wijzigingen maken: Stage, Commit & Push](lessen/03-commit-en-push.md) | 15 min |
 | 4 | [Branching & Merging](lessen/04-branching.md) | 15 min |
