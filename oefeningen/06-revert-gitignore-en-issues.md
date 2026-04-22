@@ -1,4 +1,4 @@
-# Oefening 6: Revert, .gitignore & GitHub Issues
+# Oefening 6: Revert, .gitignore & GitHub Issues (EXTRA zie les 8)
 
 ## Doel
 In 1 korte oefening leer je:
