@@ -1,4 +1,4 @@
-# Les 8: Revert, .gitignore & GitHub Issues
+# Les 8: Revert, .gitignore & GitHub Issues (EXTRA)
 
 ## Waarom deze les?
 Dit zijn drie praktische dingen die je heel vaak nodig hebt in echte projecten:
