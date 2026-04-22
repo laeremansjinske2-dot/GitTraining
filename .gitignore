@@ -169,6 +169,7 @@ cython_debug/
 
 # Docentenhandleiding (alleen lokaal)
 DOCENTENHANDLEIDING.md
+IDEEËN.md
 
 # Ruff stuff:
 .ruff_cache/

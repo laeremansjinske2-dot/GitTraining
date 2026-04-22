@@ -16,6 +16,7 @@
 | 5 | [Pull Requests](lessen/05-pull-requests.md) | 10 min |
 | 6 | [Merge Conflicts](lessen/06-merge-conflicts.md) | 15 min |
 | 7 | [GitHub Actions & Pages](lessen/07-actions-en-pages.md) | 10 min |
+| 8 | [Revert, .gitignore & GitHub Issues](lessen/08-revert-gitignore-en-issues.md) | 10 min |
 
 
 

@@ -79,4 +79,4 @@ Dit is een mini-versie van hoe echte softwarebedrijven werken: code pushen, auto
 
 ---
 
-**Dit was de laatste les! Bekijk de [cheatsheet](../cheatsheet.md) voor een handig overzicht van alle commando's.**
+**Nog tijd over? Ga door naar [Les 8: Revert, .gitignore & GitHub Issues](08-revert-gitignore-en-issues.md). Bekijk ook de [cheatsheet](../cheatsheet.md) voor een handig overzicht van alle commando's.**
